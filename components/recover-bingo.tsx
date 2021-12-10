@@ -1,5 +1,4 @@
 import { useAtom } from 'jotai'
-import { useAtomValue } from 'jotai/utils'
 import { storeAtom } from 'lib/store'
 import { useEffect, useState } from 'react'
 
